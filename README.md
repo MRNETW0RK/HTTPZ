@@ -8,8 +8,6 @@ have a list of domains but don't know which one is live , which one is not ? HTT
 - changing directory (**SOON**)
 - running OS commands (**SOON**)
 
-## Screenshot
-![httpz](httpz.PNG)
 
 ## Operating Systems Tested
 - Kali Linux 2022.3
