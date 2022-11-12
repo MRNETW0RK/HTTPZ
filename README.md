@@ -16,7 +16,7 @@ have a list of domains but don't know which one is live , which one is not ? HTT
 
 ## Install
 ```bash
-git clone https://github.com/jexroid/HTTPZ.git
+git clone https://github.com/MohammadMehdijafari/HTTPZ
 cd HTTPZ
 pip3 install -r requirements.txt
 python3 webkiller.py 
