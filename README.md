@@ -26,6 +26,6 @@ python3 webkiller.py
 ```
 
 ### Thanks to
-    AMIR REZA FARZAN 
+    AMIRREZA FARZAN 
 
 
