@@ -3,7 +3,7 @@
 # HTTPZ
 have a list of domains but don't know which one is live , which one is not ? HTTPZ is here for you
    
-#### Video Demo :  <URL HERE>
+#### Video Demo :  https://youtu.be/fAmgV3zESEQ
 #### Description : With the help of the HTTPZ tool, you can check a list of the websites you want. And see if they are live or not
  
 ## Features
