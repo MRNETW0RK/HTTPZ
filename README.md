@@ -25,6 +25,6 @@ python3 webkiller.py
 ```
 
 ### Thanks to
-    Mohammad Mehdi Jafari
+    AMIR REZA FARZAN 
 
 
