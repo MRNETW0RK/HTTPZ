@@ -19,7 +19,7 @@ have a list of domains but don't know which one is live , which one is not ? HTT
 
 ## Install
 ```bash
-git clone https://github.com/MohammadMehdijafari/HTTPZ
+git clone https://github.com/MRNETW0RK/HTTPZ
 cd HTTPZ
 pip3 install -r requirements.txt
 python3 HTTPZ.py 
